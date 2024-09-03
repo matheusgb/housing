@@ -1,4 +1,4 @@
-package com.matheusgb.users;
+package com.matheusgb.housing;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
